@@ -1,0 +1,53 @@
+img {
+  width: 25%;
+  align-self: center;
+}
+div.logo {
+  margin-top: 2%;
+}
+
+div.table {
+  margin-top: 5%;
+}
+
+div.school_logo_form {
+  align-self: baseline;
+  width: 80%;
+}
+
+#category_photo {
+  width: 400px;
+  height: 220px;
+  border-radius: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+th.grade_category {
+  font-size: 20px;
+  padding: 20px;
+}
+body {
+  background-color: rgb(237, 233, 233);
+}
+
+table {
+  background-color: #fff;
+  border-radius: 15px;
+}
+table.form_table {
+  border-radius: 5px;
+  padding: 15px;
+}
+
+th.enroll_button {
+  padding: 20px;
+}
+
+label {
+  width: 100px;
+  display: inline-block;
+}
+#button-padding {
+  padding: 1%;
+}
